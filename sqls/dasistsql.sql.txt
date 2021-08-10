@@ -6,13 +6,7 @@ ja hier ist sql
 und hier ein eintrag von mir
 
 
-<<<<<<< HEAD
 Hier shreibt der Frosch
 
 
-=======
-
-
-
 Hier schriebt Edgar Wallace
->>>>>>> 31432ba3512a9e4de8e5bdf14b4b44922555abd1
